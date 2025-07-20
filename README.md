@@ -1,2 +1,2 @@
 # crash-analysis-by-vehicle-type
-Analysis of traffic crash contributing factors during peak hours in NYC across vehicle types, including passenger, commercial, emergency, and two-wheelers.
+This project explores the primary contributing factors to traffic crashes during peak periods in New York City — defined by the highest frequency of incidents by hour and day of the week. Using real-world traffic data, we analyze how these factors differ across various vehicle types, including passenger vehicles, commercial vehicles, emergency responders, and two-wheelers. The project includes data cleaning, exploratory analysis, visualizations, and insights aimed at improving urban traffic safety and vehicle-specific risk assessment.
